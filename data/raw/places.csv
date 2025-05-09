@@ -1,0 +1,343 @@
+name,lat,lon,rating,user_ratings_total,type_list,type_main,address,categoria
+Posada Terra Santa,39.56989000000001,2.653394999999999,4.8,358.0,"['bar', 'lodging', 'spa', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de la Posada de Terra Santa, 5, Palma",Comida
+Hotel Hostal Cuba,39.5702062,2.6391515,4.1,2620.0,"['bar', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Sant Magí, 1, Palma",Comida
+Naturalment,39.57065789999999,2.6511136,1.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",restaurant,"Carrer de Colom, 15, Palma",Comida
+Hotel Cappuccino - Palma,39.56971739999999,2.6502664,4.4,1438.0,"['movie_theater', 'bar', 'lodging', 'spa', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Plaça de Cort, Palma",Comida
+Can Alomar Urban Luxury Retreat,39.56991110000001,2.646119399999999,4.8,316.0,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Sant Feliu, 1, Palma",Comida
+Restaurant El Pilón,39.57106030000001,2.6463035,4.5,1596.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Can Cifré, 4, Palma",Comida
+Marc Fosh Restaurant,39.57336189999999,2.651386999999999,4.6,1062.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de la Missió, 7, Palma",Comida
+Bar Marítim Nou,39.5694524,2.6371001,3.7,979.0,"['restaurant', 'bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",restaurant,"Passeig Marítim, 1, Palma",Comida
+Restaurant Toque,39.5670876,2.6282216,4.7,1140.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer Federico García Lorca, 6, Palma",Comida
+Restaurante Bahía Mediterráneo,39.5624246,2.6267059,4.2,644.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Avinguda de Gabriel Roca, 33, Palma",Comida
+La Baranda,39.5702836,2.638255899999999,4.3,361.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Sant Magí, 29, Palma",Comida
+La Paloma,39.5690898,2.6452358,4.3,1369.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer dels Apuntadors, 16, Palma",Comida
+La Bodeguilla,39.5717805,2.6471513,4.5,2332.0,"['restaurant', 'liquor_store', 'food', 'point_of_interest', 'store', 'establishment']",restaurant,"Carrer de Sant Jaume, 3, Palma",Comida
+Restaurante Gotic,39.5681671,2.6448366,3.0,329.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Plaça de la Llotja, 2, Palma",Comida
+Restaurante Arume,39.57721220000001,2.6522209,4.6,836.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Sant Miquel, 83, Palma",Comida
+La Madeleine de Proust Santa Catalina,39.571281,2.638807,4.0,281.0,"['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",restaurant,"Carrer d'Anníbal, 17, Palma",Comida
+Bar Cafe Coto,39.569472,2.643938,4.5,2751.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Plaça de la Drassana, 12, Palma",Comida
+Duke Restaurant,39.5718918,2.6380522,4.7,1324.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer Soler, 36, Palma",Comida
+Restaurante Asador BOLIXE Cocina Esencial,39.578844,2.657012,4.7,1532.0,"['liquor_store', 'bar', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",restaurant,"Carrer d'Eusebi Estada, 33, Palma",Comida
+"Telepizza Palma de Mallorca, La Riera - Comida a domicilio",39.5822245,2.6449134,3.0,412.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer d'Anselm Turmeda, 7, Bajo 2, Palma",Comida
+McDonald's,39.5712,2.64731,3.8,4870.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Plaça del Rei Joan Carles I, 7, Palma",Comida
+Quina Creu Tapas Pintxos Restaurant,39.5703813,2.6526939,4.3,1373.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de la Corderia, 24, Palma",Comida
+Restaurante Caballito de Mar,39.5679802,2.6446749,4.1,806.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Passeig de Sagrera, 5, Bajo, Palma",Comida
+Brondo Architect Hotel,39.5710872,2.647932299999999,3.9,526.0,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Can Brondo, 4, Palma",Comida
+ICON Rosetó,39.57207599999999,2.6494958,4.6,493.0,"['lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer de Can Campaner, 6, Palma",Comida
+Restaurante Diablito Portixol - Comida y Música,39.5617721,2.6653728,3.9,949.0,"['bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Passeig Portitxol, 5, Palma",Comida
+Hard Rock Cafe Mallorca,39.569341,2.634965,4.2,9383.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Balearic Islands, Passeig Marítim, S/N, Palma",Comida
+Block House Palma,39.5731631,2.6428957,4.2,1664.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Passeig de Mallorca, 16, Palma",Comida
+Ca'n Manolo Palma,39.5671516,2.6283033,4.6,1156.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Carrer Federico García Lorca, 4, Palma",Comida
+Restaurante Gran Muralla,39.58435239999999,2.6487725,3.6,63.0,"['restaurant', 'food', 'point_of_interest', 'establishment']",restaurant,"Plaça de París, 6, Palma",Comida
+Santa Clara Urban Hotel & Spa,39.5668394,2.6522388,4.5,232.0,"['bar', 'lodging', 'cafe', 'spa', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de Sant Alonso, 16, Palma",Comida
+Cafè Plaça,39.5687386,2.6507942,3.8,1196.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Plaça de Santa Eulàlia, 6, Palma",Comida
+Bar Marítim Nou,39.5694524,2.6371001,3.7,979.0,"['restaurant', 'bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Passeig Marítim, 1, Palma",Comida
+La Madeleine de Proust Santa Catalina,39.571281,2.638807,4.0,281.0,"['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer d'Anníbal, 17, Palma",Comida
+Bar Cafe Coto,39.569472,2.643938,4.5,2751.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Plaça de la Drassana, 12, Palma",Comida
+Can Joan de s'Aigo,39.5728493,2.6439216,4.5,4551.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer del Baró de Santa Maria del Sepulcre, 5, Palma",Comida
+miniBAR Palma - Cafe y Jamón Ibérico al Corte,39.5781561,2.6489844,4.6,279.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de Pere Dezcallar i Net, 13, Palma",Comida
+LUXOR CAFE PALMA,39.5702736,2.6596262,4.6,155.0,"['bar', 'cafe', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer dels Foners, 24, Palma",Comida
+Café Al Vent del Món,39.5785388,2.66172,4.2,540.0,"['cafe', 'bar', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer del Marquès de la Fontsanta, 82, Palma",Comida
+Café & Té,39.5753474,2.6526156,3.0,5.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Plaça de la Porta Pintada, 2, Palma",Comida
+Forn del Santo Cristo,39.5740302,2.652053,4.1,779.0,"['bakery', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de Sant Miquel, 47, Palma",Comida
+Bar Plata,39.5699514,2.6512303,4.7,184.0,"['bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de l'Argenteria, 1, Palma",Comida
+Punt de Joc (Metropolitan),39.5734572,2.666320799999999,3.9,141.0,"['bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer Gabriel Llabrés, 24, Palma",Comida
+Cafè Barroco,39.5755088,2.657055999999999,4.5,561.0,"['bar', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de Margalida Caimari, 17, Palma",Comida
+Pastisseria Mariola’s,39.5702143,2.651163,4.4,783.0,"['bakery', 'cafe', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer dels Set Cantons, 6, Palma",Comida
+Rapha Mallorca,39.5694457,2.6483433,4.5,783.0,"['clothing_store', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Plaça del Rosari, 1, Palma",Comida
+Mistral Coffee Banc,39.5711087,2.650784,4.9,781.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer del Banc, 4, Palma",Comida
+Ca'n Joan de s'Aigo,39.56993,2.6526434,4.6,7039.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer de Can Sanç, 10, Palma",Comida
+Es Badulake,39.56999399999999,2.6472243,4.9,166.0,"['cafe', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de les Minyones, 2, Palma",Comida
+Arabay Flagship Store Palma,39.5710613,2.6525526,4.4,1060.0,"['cafe', 'food', 'point_of_interest', 'store', 'establishment']",cafe,"Carrer del Sindicat, 5, Palma",Comida
+Al Punt - Restaurant Palma,39.5734478,2.6492477,4.2,629.0,"['cafe', 'meal_takeaway', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Santa Magdalena, 1, Palma",Comida
+MELL34 Cafetería / Panadería,39.5682452,2.656048,4.8,212.0,"['cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Mateu Enric Lladó, 34B, LOCAL C, Palma",Comida
+Cafè Can Martí,39.5709156,2.6438803,4.2,489.0,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Can Sales, 7, Palma",Comida
+Cafè Canamunt,39.573017,2.654934,4.8,273.0,"['cafe', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de la Volta de la Mercè, 9, Palma",Comida
+Glop´s,39.5732943,2.6452375,4.4,438.0,"['cafe', 'bar', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Bonaire, 10, Palma",Comida
+Fibonacci Bonaire,39.5734473,2.6452429,3.7,73.0,"['cafe', 'store', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Bonaire, 10, Palma",Comida
+Lluís Perez Pastisser,39.5736741,2.6453147,4.6,578.0,"['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer de Bonaire, 14, Palma",Comida
+La Molienda Bisbe,39.575,2.6458333,4.3,1798.0,"['cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer del Bisbe Campins, 11, Palma",Comida
+1962 Café & Gastrobar,39.5718967,2.6422656,4.3,298.0,"['bar', 'cafe', 'store', 'food', 'point_of_interest', 'establishment']",cafe,"Passeig de Mallorca, 6, Palma",Comida
+"Sport bar Cafetería, Apuestas Deportivas, Local de Juego - Punt de Joc (Es Jardí)",39.569819,2.658752,4.1,347.0,"['cafe', 'bar', 'store', 'food', 'point_of_interest', 'establishment']",cafe,"Carrer General Ricardo Ortega, 12, Palma",Comida
+La Madeleine de Proust Santa Catalina,39.571281,2.638807,4.0,281.0,"['bakery', 'cafe', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer d'Anníbal, 17, Palma",Comida
+Tartas Can Pinyol,39.5833756,2.6373252,4.0,90.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer de Francesc Martí i Móra, 58, Palma",Comida
+Panadería San Rafael S L,39.573553,2.6721756,4.4,69.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer Sant Rafael, 39, Palma",Comida
+Pastisseria Ca Na Cati,39.57854179999999,2.6638152,4.0,1455.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer Josep Darder, 5, Palma",Comida
+Panaderia S'Estació,39.5721055,2.6553879,4.5,1959.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer del Sindicat, 66, Palma",Comida
+Pastisseria Real,39.5752956,2.669221,4.7,249.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer Reis Catòlics, 79, Palma",Comida
+Dulceliaco,39.5730374,2.6323965,4.7,92.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer d'Avinyó, 13, Palma",Comida
+Pastelería Bomboneria Cladera,39.57187009999999,2.654264099999999,1.0,1.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Plaça de l'Olivar, 7, Palma",Comida
+Forn del Santo Cristo,39.5740302,2.652053,4.1,779.0,"['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer de Sant Miquel, 47, Palma",Comida
+"Panadería Fornaris, S.L.",39.5697164,2.6671736,4.2,36.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Calle Sargento Cortés Piña, 2, Palma",Comida
+Forn Nou,39.58154099999999,2.6482785,4.3,72.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer de Sant Joaquim, 8, Palma",Comida
+Pastisseria Cort,39.56949609999999,2.649866,3.6,530.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Plaça de Cort, n2, Palma",Comida
+Pastisseria Mariola’s,39.5702143,2.651163,4.4,783.0,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer dels Set Cantons, 6, Palma",Comida
+Forn del Santo Cristo,39.570866,2.651259699999999,4.1,977.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Plaça del Marquès del Palmer, 2, Palma",Comida
+PaneNostro,39.571424,2.6548109,4.6,163.0,"['bakery', 'grocery_or_supermarket', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Plaça Nova de la Ferreria, 6, Palma",Comida
+La Hogaza,39.570548,2.655937999999999,4.6,205.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer del Socors, 50, Palma",Comida
+Lluís Perez Pastisser,39.5736741,2.6453147,4.6,578.0,"['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer de Bonaire, 14, Palma",Comida
+Mise en Place,39.5674151,2.6596871,4.1,280.0,"['cafe', 'bakery', 'store', 'restaurant', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer Miquel Santandreu, 16, Palma",Comida
+Rosevelvet,39.5775423,2.6503454,4.4,1136.0,"['cafe', 'bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer de Font i Monteros, 22, Palma",Comida
+MDQ,39.5784368,2.646229,3.6,706.0,"['bakery', 'store', 'food', 'point_of_interest', 'establishment']",bakery,"Carrer Carles I, 8, Palma",Comida
+Gelats Paco Blanquerna,39.5788972,2.6507891,4.2,536.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Blanquerna, 10, Palma",Comida
+Forn Ca sa Camena,39.5716709,2.6378841,4.5,107.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer d'Anníbal, 22, Palma",Comida
+thomas bakeshop boutique,39.57170199999999,2.637629,4.7,173.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer d'Anníbal, 24, Palma",Comida
+Squarcia La Exquisiteria,39.579831,2.653082,3.9,57.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Julià Alvarez, 9, bajos, Palma",Comida
+Forn de pa i pastisseria Mestre,39.5754955,2.638640699999999,4.3,22.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Desbach, 4, Palma",Comida
+Tudurí Pastisseria i Cafè,39.58113539999999,2.6492145,4.2,1705.0,"['bakery', 'bar', 'cafe', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"07003, Carrer de Blanquerna, 42, Palma",Comida
+Angelo Paletta Panaderia y Pasteleria Mallorca,39.5817142,2.6536548,4.4,305.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Rosselló i Cazador, 17, Palma",Comida
+Forn La Mallorquina,39.5739425,2.6339961,4.3,24.0,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Joan Crespí, 18, Palma",Comida
+Panadería Pastelería San Bartolomé,39.5824279,2.637651,4.5,192.0,"['bakery', 'grocery_or_supermarket', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Francesc Martí i Móra, 35, Palma",Comida
+Tartasmallorca,39.58765930000001,2.6479034,,,"['bakery', 'food', 'point_of_interest', 'store', 'establishment']",bakery,"Carrer de Cotlliure, 1, Palma",Comida
+Naturalment,39.57065789999999,2.6511136,1.0,1.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",meal_takeaway,"Carrer de Colom, 15, Palma",Comida
+"Telepizza Palma de Mallorca, La Riera - Comida a domicilio",39.5822245,2.6449134,3.0,412.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer d'Anselm Turmeda, 7, Bajo 2, Palma",Comida
+Palma Pollo I Restaurante,39.5766642,2.6420779,4.2,493.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer Rafael Rodríguez Méndez, 7, Palma",Comida
+Chino Hola,39.5815243,2.651365999999999,3.4,159.0,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer del Pare Bartomeu Pou, 12, Palma",Comida
+"La Mafia de la Pizza Nostra, Pizzeria a Domicilio en Palma",39.58476299999999,2.657361,4.3,293.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de l'Arxiduc Lluís Salvador, 89, Palma",Comida
+"Galactic Club - Palma, Illes Balears",39.57313569999999,2.6398339,4.7,254.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Murillo, 9, Palma",Comida
+Pasta Cuore S.L.,39.56999799999999,2.6507456,,,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",meal_takeaway,"Carrer de Colom, 8, Palma",Comida
+Rapha Mallorca,39.5694457,2.6483433,4.5,783.0,"['clothing_store', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",meal_takeaway,"Plaça del Rosari, 1, Palma",Comida
+Al Punt - Restaurant Palma,39.5734478,2.6492477,4.2,629.0,"['bar', 'cafe', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",meal_takeaway,"Carrer de Santa Magdalena, 1, Palma",Comida
+La Fornarina,39.57461079999999,2.6534785,3.5,196.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer dels Caputxins, 4, Palma",Comida
+Llaollao Olmos,39.575163,2.651626,4.2,438.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'store', 'establishment']",meal_takeaway,"Carrer dels Oms, 7, Palma",Comida
+Domino's Pizza,39.56986,2.65756,3.6,1969.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Avinguda de Gabriel Alomar, 11, Palma",Comida
+Vegan and Raw,39.5755728,2.6486527,4.2,186.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Plaça del Bisbe Berenguer de Palou, nº2, Bajos, Palma",Comida
+McDonald's,39.5728666,2.6574289,3.4,2236.0,"['meal_delivery', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer Nuredduna, 1, Bajos, Palma",Comida
+Palma Pollo II,39.567533,2.659993,4.4,335.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Joan Alcover, 45, Palma",Comida
+Jaipur Tandoori - Indian Restaurant Palma,39.5720445,2.639691500000001,4.7,2373.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de la Fàbrica, 5, Palma",Comida
+Sushi Chet,39.57256019999999,2.6622641,4.3,174.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Lluís Martí, 45, Palma",Comida
+Mister hot dog,39.5779085,2.6428904,4.6,233.0,"['restaurant', 'meal_delivery', 'meal_takeaway', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Goethe, 14, Palma",Comida
+Il carpaccio Pizzeria Italiana,39.569454,2.663520999999999,3.7,269.0,"['meal_delivery', 'bar', 'meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer General Ricardo Ortega, 49, Palma",Comida
+VA DE BO pianobiobar,39.5773754,2.6403773,4.5,208.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Valldargent, 1, Palma",Comida
+Restaurante y comidas para llevar Tastau,39.57983779999999,2.659153299999999,3.7,700.0,"['restaurant', 'cafe', 'meal_takeaway', 'bar', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Jaume Balmes, 33, Palma",Comida
+"""Asador-Parrilla Para Llevar "" Pollos Top",39.5791131,2.6632639,4.2,353.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer Aragó, 79, Palma",Comida
+Pizzeria Bellver,39.57273919999999,2.6314944,4.1,36.0,"['meal_takeaway', 'meal_delivery', 'bar', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Bartomeu Rosselló-Porcel, 2, Bajos 2, Palma",Comida
+Merlin's kebap,39.5780627,2.666151,4.4,771.0,"['meal_takeaway', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer Josep Darder, 17, Palma",Comida
+Domino's Pizza,39.58672,2.653309,3.8,1834.0,"['meal_takeaway', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer d'Alfons el Magnànim, 38, Palma",Comida
+Arrossería Paellas Palma,39.588264,2.653507,3.8,167.0,"['meal_takeaway', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer San Francisco de Sales, 8, Palma",Comida
+L'Artista Pizzeria Napoletana,39.56191,2.626769,4.3,3230.0,"['cafe', 'meal_takeaway', 'bar', 'restaurant', 'store', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Avinguda de Gabriel Roca, 34, Palma",Comida
+Asador Real,39.580724,2.677225,4.3,410.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer d'Indalecio Prieto, 45, Palma",Comida
+Burger King,39.59485179999999,2.6481543,3.3,1634.0,"['meal_takeaway', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer del Bisbe Pere de Puigdorfila, 1, Palma",Comida
+"Telepizza Palma de Mallorca, Alcover - Comida a Domicilio",39.5683645,2.6603112,3.2,485.0,"['meal_takeaway', 'meal_delivery', 'restaurant', 'food', 'point_of_interest', 'establishment']",meal_takeaway,"Carrer de Joan Alcover, 33, Palma",Comida
+Viding AiguaBlava,39.5759252,2.625914400000001,3.8,763.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Avinguda de Picasso, 42, Palma",Actividad
+Estudio Pilates Palma,39.5726007,2.642783399999999,4.9,45.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Avinguda de Jaume III, 26, Entresuelo 2º, Palma",Actividad
+Narada Yoga & Ayurveda,39.5808222,2.6371464,5.0,10.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Jeroni Alemany, 24, Palma",Actividad
+Basic-Fit,39.57607,2.645075400000001,3.8,1380.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Avinguda de Portugal, 7, Palma",Actividad
+Gimnàs Grech,39.5803955,2.6466421,4.6,103.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Lluís Vives, 5, Palma",Actividad
+Richards Villot,39.5822864,2.6471184,,,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer del General Riera, 44, Palma",Actividad
+Gym Atlanta Studio,39.5841,2.6515099,4.7,47.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Francesc Suau, 15, Palma",Actividad
+Club Taekwondo Yong,39.58364279999999,2.661618199999999,4.8,41.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer d'Eusebi Estada, 99, Palma",Actividad
+Rocodrom Es Cau,39.5840837,2.6603085,4.6,244.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Jaume Ferran, 72, Palma",Actividad
+YOGUINI Yoga Iyengar,39.568116,2.6505184,4.9,61.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer d'En Morei, 8, Palma",Actividad
+Corpore Centre Pilates,39.57143800000001,2.6477638,4.6,17.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer Unió, 2A, 2ºA, Palma",Actividad
+"Fisioholistik - Fisioterapia, Osteopatía y mucho más",39.57144559999999,2.647737799999999,5.0,9.0,"['physiotherapist', 'gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer Unió, 2A, 2ºA, Palma",Actividad
+Anua Pilates Estética,39.5728815,2.645150300000001,5.0,5.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Bonaire, 6, Palma",Actividad
+PalmaBalance,39.5762431,2.6531689,5.0,17.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Plaça d'Espanya, 4, 3º 1ª, Palma",Actividad
+Pro Sport Palma,39.56589799999999,2.6579214,4.8,39.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Tomàs Forteza, 63, Palma",Actividad
+Gimnasio VivaGym Nuredduna,39.5730265,2.6582119,4.3,819.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer Nuredduna, 5, Palma",Actividad
+Herbalife Mallorca D.I.,39.56539129999999,2.6587649,1.5,2.0,"['gym', 'health', 'store', 'point_of_interest', 'establishment']",gym,"Carrer de Joan Alcover, 64, Palma",Actividad
+Vital Fit Gym & Tienda Fortí,39.575929,2.6432392,4.4,142.0,"['gym', 'health', 'store', 'food', 'point_of_interest', 'establishment']",gym,"Plaça del Fortí, 2, Palma",Actividad
+Imagim Palma Gimnasio,39.5753095,2.6586109,4.5,196.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Miquel Marquès, 3, Palma",Actividad
+Core Group Developer,39.5719189,2.6382866,4.9,7.0,"['gym', 'general_contractor', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de la Pursiana, 23, Palma",Actividad
+Challenge Palma Club,39.57415779999999,2.639365,4.8,135.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de la Indústria, 14, Palma",Actividad
+CoriPilates,39.57905230000001,2.6537712,4.5,42.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de l'Arxiduc Lluís Salvador, 19, Palma",Actividad
+Anytime Fitness Palma,39.5798779,2.6525582,4.4,293.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer del 31 de Desembre, 28, Palma",Actividad
+Gimnasio VivaGym Santa Catalina,39.57336799999999,2.636873999999999,3.8,314.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Caro, 23, Palma",Actividad
+Fisiotur Clinic Fisioterapia & Readaptación,39.5802897,2.653325,4.8,32.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Pablo Iglesias, 11, baixos esquerra, Palma",Actividad
+Lucky Bodies & Happy Souls,39.5738864,2.6357464,4.8,17.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Despuig, 30, Palma",Actividad
+Mysore House Mallorca,39.5746374,2.6355046,4.8,40.0,"['gym', 'health', 'point_of_interest', 'establishment']",gym,"Carrer de Villalonga, 41, Palma",Actividad
+Centro de bienestar y nutrición. Distribuidor independiente Herbalife,39.581798,2.645755,,,"['gym', 'local_government_office', 'health', 'point_of_interest', 'establishment']",gym,"Costa de les Germanetes, 6, Palma",Actividad
+Sensei Gym Muay Thai y tienda de artes marciales,39.58238860000001,2.6539996,5.0,34.0,"['gym', 'health', 'point_of_interest', 'store', 'establishment']",gym,"Carrer d'Àngel Guimerà, 24, Palma",Actividad
+Palma Sport & Tennis Club,39.57159559999999,2.631943699999999,4.6,423.0,"['gym', 'restaurant', 'health', 'food', 'point_of_interest', 'establishment']",gym,"Carrer Joan Maria Thomàs, 4, Palma",Actividad
+Isla Mallorca & Spa,39.5691681,2.6278384,4.3,2015.0,"['lodging', 'spa', 'point_of_interest', 'establishment']",spa,"Carrer de Pilar Juncosa, 7, Palma",Actividad
+Santa Clara Urban Hotel & Spa,39.5668394,2.6522388,4.5,232.0,"['bar', 'lodging', 'cafe', 'spa', 'food', 'point_of_interest', 'store', 'establishment']",spa,"Carrer de Sant Alonso, 16, Palma",Actividad
+Posada Terra Santa,39.56989000000001,2.653394999999999,4.8,358.0,"['bar', 'lodging', 'spa', 'restaurant', 'food', 'point_of_interest', 'establishment']",spa,"Carrer de la Posada de Terra Santa, 5, Palma",Actividad
+Hotel Cappuccino - Palma,39.56971739999999,2.6502664,4.4,1438.0,"['movie_theater', 'bar', 'lodging', 'spa', 'restaurant', 'food', 'point_of_interest', 'establishment']",spa,"Plaça de Cort, Palma",Actividad
+Centro Odontológico Integral,39.57428099999999,2.6403144,4.7,32.0,"['dentist', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer Comte de Barcelona, 3, Bajos, Palma",Actividad
+EDER BEAUTY,39.5755478,2.6528666,3.8,48.0,"['beauty_salon', 'hair_care', 'spa', 'point_of_interest', 'establishment']",spa,"1º A, Plaça de la Porta Pintada, 3, Palma",Actividad
+Dermativa by Depilitiva | Depilació làser a Palma,39.5776951,2.6264008,4.8,167.0,"['hair_care', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Avinguda de Picasso, 56, Palma",Actividad
+"Centro de Belleza Shena, Maite Arbona",39.57127029999999,2.6527362,4.6,137.0,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'store', 'establishment']",spa,"Carrer d'en Rubí, 8, Palma",Actividad
+MH Boutique,39.5651027,2.6281547,5.0,3.0,"['clothing_store', 'spa', 'point_of_interest', 'store', 'establishment']",spa,"Avinguda de Gabriel Roca, nº27, 4º, Palma",Actividad
+NutriBell Centro Médico Estético,39.5786996,2.6485618,4.1,35.0,"['hair_care', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer del General Riera, 1, Palma",Actividad
+Alissi Bronte,39.5714759,2.6476863,3.4,5.0,"['beauty_salon', 'spa', 'health', 'point_of_interest', 'store', 'establishment']",spa,"Carrer Unió, Nº2, Entresuelo 9, Palma",Actividad
+The Nail Gallery,39.5699567,2.6476698,3.8,105.0,"['hair_care', 'beauty_salon', 'spa', 'point_of_interest', 'establishment']",spa,"Carrer de Can Puigdorfila, 5, Bajos 10, Palma",Actividad
+bemberg Sauna Showroom Mallorca,39.56958449999999,2.6504502,,,"['spa', 'health', 'point_of_interest', 'establishment']",spa,"Plaça de Cort, 14, Palma",Actividad
+Sanuk Mallorca,39.57210000000001,2.64939,4.9,323.0,"['spa', 'point_of_interest', 'establishment']",spa,"Carrer de Can Campaner, 5, Palma",Actividad
+️ Peluquería Equipo's | Extensiones de pelo en Mallorca | Haarverlängerungen,39.5714993,2.6460757,4.6,159.0,"['hair_care', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'store', 'establishment']",spa,"Carrer de Can Asprer, 3, Palma",Actividad
+Puro SPA,39.56930450000001,2.6452908,5.0,2.0,"['spa', 'point_of_interest', 'establishment']",spa,"Carrer de Montenegro, 9, Palma",Actividad
+flawless,39.567018,2.6540307,,,"['spa', 'point_of_interest', 'establishment']",spa,"Carrer dels Botons, 18, Palma",Actividad
+Clínica Integral 3medic,39.571964,2.645597200000001,,,"['hospital', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Avinguda de Jaume III, 8, Palma",Actividad
+INNOVA estética avanzada,39.5746486,2.6525592,4.6,70.0,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Passatge Particular Joan XXIII, Palma",Actividad
+Hands4You,39.5724014,2.6427571,4.8,196.0,"['beauty_salon', 'spa', 'point_of_interest', 'establishment']",spa,"Avinguda de Jaume III, 27, Local 14 Entresuelo 1, Palma",Actividad
+INNOVA estética avanzada,39.57425219999999,2.6443892,4.9,142.0,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Passeig de Mallorca, 32, A, Palma",Actividad
+CLINIC ZURICH MALLORCA,39.5762522,2.6476174,4.9,1799.0,"['hair_care', 'beauty_salon', 'spa', 'doctor', 'health', 'point_of_interest', 'establishment']",spa,"C/ Barón de Pinopar, 9, Palma",Actividad
+Pearl of Asia,39.5757019,2.6571264,3.9,28.0,"['beauty_salon', 'spa', 'point_of_interest', 'establishment']",spa,"Carrer del Bisbe Maura, 16, Palma",Actividad
+Centro de Estética Avanzada Carmen Amengual,39.5780576,2.6525582,4.8,183.0,"['beauty_salon', 'hair_care', 'spa', 'health', 'point_of_interest', 'store', 'establishment']",spa,"Carrer del 31 de Desembre, 6, Palma",Actividad
+Clínica Dra. Marisol Galano,39.5781934,2.6467405,4.7,85.0,"['beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer de Jesús, 7, Bajos, Palma",Actividad
+Soulmassage,39.5717398,2.6376451,4.8,64.0,"['spa', 'point_of_interest', 'establishment']",spa,"Carrer d'Anníbal, 24, Bajo, Palma",Actividad
+"Thai Wellness ""Massage in Mallorca""",39.5729823,2.6376182,4.7,154.0,"['spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer de Cotoner, 20, Palma",Actividad
+4YOU CENTRO DE ESTÉTICA PALMA,39.5795762,2.6543801,4.3,103.0,"['beauty_salon', 'spa', 'point_of_interest', 'establishment']",spa,"Plaça del Cardenal Reig, 7, Palma",Actividad
+"Jorge Martín , Peluquería y Estética.",39.5820127,2.6481909,3.6,111.0,"['hair_care', 'beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer d'Ausiàs March, 27, Palma",Actividad
+COS centro de quiromasaje,39.573379,2.6323429,4.9,46.0,"['beauty_salon', 'spa', 'health', 'point_of_interest', 'establishment']",spa,"Carrer d'Avinyó, 16, Palma",Actividad
+Hotel Cappuccino - Palma,39.56971739999999,2.6502664,4.4,1438.0,"['movie_theater', 'spa', 'bar', 'lodging', 'restaurant', 'food', 'point_of_interest', 'establishment']",movie_theater,"Plaça de Cort, Palma",Actividad
+Cineciutat,39.58482079999999,2.6495467,4.5,1001.0,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer de l'Emperadriu Eugènia, 6, Palma",Actividad
+Ocimax Palma Aficine,39.595122,2.6485207,4.2,7794.0,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer del Bisbe Pere de Puigdorfila, 1, Palma",Actividad
+Asociación Xarxa Cinema,39.5846001,2.6499669,,,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer de l'Emperadriu Eugènia, 6, Palma",Actividad
+Augusta,39.57663399999999,2.6534844,4.1,2062.0,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Avinguda del Gran i General Consell, 2, Palma",Actividad
+Rívoli Aficine,39.57890769999999,2.6498511,4.4,1947.0,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer d'Antoni Marquès, 25, Palma",Actividad
+Formación para la interpretación cinematográfica,39.56713750000001,2.6517687,,,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer de Can Fonollar, Palma",Actividad
+Novaproducciones,39.57359599999999,2.6433177,,,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Passeig de Mallorca, Palma",Actividad
+THE HOLE´S,39.5748649,2.6580198,4.7,111.0,"['movie_theater', 'night_club', 'store', 'point_of_interest', 'establishment']",movie_theater,"Carrer de Margalida Caimari, Nº 4, Palma",Actividad
+Futbrawl5,39.57569469999999,2.6409221,,,"['movie_theater', 'point_of_interest', 'establishment']",movie_theater,"Carrer d'Alòs, Palma",Actividad
+Alquiler Castillos Hinchables Mallorca,39.57847220000001,2.664384000000001,4.9,106.0,"['amusement_park', 'point_of_interest', 'establishment']",amusement_park,"calle Mediko, Carrer Josep Darder, 7, Palma",Actividad
+Realidad Virtual Another World Palma,39.5952029,2.648476,5.0,669.0,"['amusement_park', 'point_of_interest', 'establishment']",amusement_park,"Ocimax, Carrer del Bisbe Pere de Puigdorfila, 1, Planta 0, local C7, Palma",Actividad
+Palacio Ca Sa Galesa,39.5671567,2.6500381,4.7,182.0,"['lodging', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer de Miramar, 8, Palma",Atracción
+Castell de Bellver,39.5638434,2.619423099999999,4.5,22813.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer Camilo José Cela, s/n, Palma",Atracción
+Es Baluard Museu d'Art Contemporani de Palma,39.5702377,2.6411417,4.2,3877.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça de la Porta de Santa Catalina, 10, Palma",Atracción
+Museum of Mallorca,39.5672221,2.650730499999999,4.2,474.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer de la Portella, 5, Palma",Atracción
+Can' Sales,39.56757109999999,2.6503781,4.1,19.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer de la Puresa, 2, Palma",Atracción
+Museu de La Seu de Mallorca,39.5674046,2.6483082,4.7,4958.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Plaça de la Seu, s/n, Palma",Atracción
+Museu Diocesà,39.5669056,2.6490567,4.4,159.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Carrer del Mirador, 5, Palma",Atracción
+ABA ART,39.5711061,2.642582,4.7,59.0,"['art_gallery', 'tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Plaça de la Porta de Santa Catalina, 21B, Palma",Atracción
+Centre d'Historia i Cultura Militar de Balears,39.5756522,2.652009999999999,4.5,316.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer de Sant Miquel, 69, Palma",Atracción
+Amics del Ferrocarril illes Balears,39.57619469999999,2.654234900000001,5.0,4.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça d'Espanya, 6, Palma",Atracción
+Transilvania Cafeteria-Museu,39.58196979999999,2.6588922,4.6,650.0,"['cafe', 'museum', 'food', 'point_of_interest', 'establishment']",museum,"Carrer de Jaume Ferran, 38, Palma",Atracción
+Poble Espanyol de Mallorca,39.57272940000001,2.627964,4.1,4083.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Carrer del Poble Espanyol, 55, Palma",Atracción
+Aula de la Mar,39.5621025,2.6707093,4.5,56.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Carrer de Francesc Femenias, 1, Palma",Atracción
+Fundación Juan March,39.5722,2.652,4.6,1304.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer de Sant Miquel, 11, Palma",Atracción
+Fundación Bartolomé March,39.5687345,2.6477982,4.5,220.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer del Palau Reial, 18, Palma",Atracción
+Museu Krekovic,39.5675953,2.666048599999999,4.0,70.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Carrer Ciutat de Querétaro, 3, Palma",Atracción
+Perl Art,39.56960579999999,2.649779699999999,4.5,33.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça de Cort, 3, Palma",Atracción
+Centre Maimó Ben Faraig,39.5685515,2.650193899999999,3.5,11.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",museum,"Carrer de l'Almudaina, 9, Palma",Atracción
+Casa Museu Can Marquès,39.5683757,2.6500313,4.7,3.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer de Can Anglada, 2A, Palma",Atracción
+Museu Pau Lluís Fornés,39.5679975,2.6504578,,,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer d'En Morei, 10, Palma",Atracción
+Call Jueu (Jewish Quarter),39.5682129,2.6515244,3.9,35.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer del Call, 19, Palma",Atracción
+Fantasy Museum,39.57156919999999,2.6512604,4.4,271.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça Major, 3, Palma",Atracción
+Arte Temporanea,39.569949,2.646942499999999,4.5,4.0,"['museum', 'point_of_interest', 'establishment']",museum,"Passeig del Born, 6, Palma",Atracción
+Kulturzentrum Palma,39.57169219999999,2.6476962,5.0,6.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer Unió, 3, Palma",Atracción
+Museu Marítim de Mallorca,39.5666355,2.6486024,4.7,20.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça de Ses Voltes, Palma",Atracción
+Caputxines 17 Palma,39.572957,2.6491566,4.0,1.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer de les Caputxines, 17, Palma",Atracción
+Museo bíblico,39.5669011,2.65385,4.0,1.0,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer del Seminari, 4, 2n, Palma",Atracción
+Església de Sant Felip Neri,39.5728303,2.6533746,4.5,101.0,"['church', 'place_of_worship', 'museum', 'point_of_interest', 'establishment']",museum,"Carrer de Sant Felip Neri, 1, Palma",Atracción
+Dama misteriosa,39.57059700000001,2.644245,,,"['museum', 'point_of_interest', 'establishment']",museum,"Carrer del Vi, 6, Palma",Atracción
+Monument a Antoni Despuig,39.5740261,2.6480901,3.0,1.0,"['museum', 'point_of_interest', 'establishment']",museum,"Plaça de Santa Magdalena, 4, Palma",Atracción
+Plaça dels Patins,39.5758672,2.6492755,4.2,53.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer de la Reina Esclaramunda, 15, Palma",Atracción
+Parc de Sa Riera,39.5833544,2.6411001,4.3,1818.0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",park,"Carrer de Jesús, 27A, Palma",Atracción
+"Cocinas Domenech, actuales en puertas, armarios a medida, parqué, persiana mallorquina",39.5811627,2.6756172,4.4,13.0,"['park', 'furniture_store', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",park,"Carrer Mare de Déu de Montserrat, 55, Palma",Atracción
+Jardí de Trames,39.567494,2.645970799999999,4.6,33.0,"['park', 'point_of_interest', 'establishment']",park,"Avinguda d'Antoni Maura, 1, Palma",Atracción
+Mallorca Fastenwandern,39.582808,2.6631798,5.0,5.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer Jordi Andreu Alcover, 16, Palma",Atracción
+Art Funerari,39.5834795,2.6336217,4.9,183.0,"['park', 'home_goods_store', 'store', 'point_of_interest', 'establishment']",park,"Carrer dels Ocells, 36, bajos, Palma",Atracción
+Parque de Convivencia Son Dameto Clavijo d'Alt,39.5860174,2.6248978,4.3,654.0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",park,"Carrer d'Andalusia, 14, Palma",Atracción
+Parc de Sa Feixina,39.5707218,2.640263999999999,4.4,4712.0,"['park', 'tourist_attraction', 'point_of_interest', 'establishment']",park,"Avinguda de l'Argentina, s/n, Palma",Atracción
+Wifi Park,39.57086199999999,2.666287,3.6,800.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer de Manacor, 66, Palma",Atracción
+Parc de ses Estacions,39.57804369999999,2.6571715,4.0,4357.0,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Buraco Mallorca,39.5696005,2.6501603,,,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Raxa,39.5696005,2.6501603,5.0,1.0,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Palma,39.5696005,2.6501603,,,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Palma di Maiorca,39.5696005,2.6501603,4.8,50.0,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Deutsch Drahthaar Hirsch,39.5696005,2.6501603,,,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Árbol singular,39.5697159,2.649874,,,"['park', 'point_of_interest', 'establishment']",park,"Plaça de Cort, Palma",Atracción
+Plaza de la Pescateria,39.5699299,2.6504741,4.8,4.0,"['park', 'point_of_interest', 'establishment']",park,"Plaça de la Pescateria, 1, Palma",Atracción
+meet point,39.5690105,2.650803499999999,4.0,2.0,"['park', 'point_of_interest', 'establishment']",park,"Plaça de Santa Eulàlia, 5, Palma",Atracción
+Plaça de Santa Eulàlia,39.5687505,2.6507065,4.2,12.0,"['park', 'point_of_interest', 'establishment']",park,"Plaça de Santa Eulàlia, 6, Palma",Atracción
+Jardí de la Seu,39.56862059999999,2.647886499999999,4.8,20.0,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Jardí del Bisbe,39.5676072,2.6497479,4.1,277.0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",park,"Carrer de Sant Pere Nolasc, 6, Palma",Atracción
+latino,39.5720115,2.6510442,,,"['park', 'point_of_interest', 'establishment']",park,"Plaça Major, 4, Palma",Atracción
+Jardins de la Plaça de la Reina,39.5689323,2.6468005,4.7,530.0,"['park', 'point_of_interest', 'establishment']",park,"Avinguda d'Antoni Maura, 2, Palma",Atracción
+Patio De L'ancien hotel Isabel II,39.56676900000001,2.6505291,4.3,3.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer de la Portella, 7, Palma",Atracción
+L'Hort del Rei,39.568073,2.646487,4.5,2324.0,"['tourist_attraction', 'park', 'point_of_interest', 'establishment']",park,"Avinguda d'Antoni Maura, 18, Palma",Atracción
+Plazoleta,39.5664266,2.6504939,4.0,1.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer de la Portella, 13, Palma",Atracción
+Park,39.5729614,2.6522933,4.0,1.0,"['park', 'point_of_interest', 'establishment']",park,"Carrer de Sant Miquel, 30, Palma",Atracción
+Plaça de Santa Magdalena,39.5736077,2.6492282,5.0,1.0,"['park', 'point_of_interest', 'establishment']",park,"Plaça de Santa Magdalena, Palma",Atracción
+Parc de la Mar,39.5655231,2.6500923,4.6,2094.0,"['park', 'point_of_interest', 'establishment']",park,Palma,Atracción
+Parking Palma,39.5707624,2.6552515,5.0,3.0,"['park', 'point_of_interest', 'establishment']",park,"Plaça de Raimundo Clar, 6, Palma",Atracción
+Castell de Bellver,39.5638434,2.619423099999999,4.5,22813.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer Camilo José Cela, s/n, Palma",Atracción
+Catedral-Basílica de Santa María de Mallorca,39.56742510000001,2.6482994,4.7,53933.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",tourist_attraction,"Plaça de la Seu, s/n, Palma",Atracción
+Train Sóller Station (Palma de Mallorca),39.5766774,2.6538486,4.4,10660.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer d'Eusebi Estada, 1, Palma",Atracción
+Museum of Mallorca,39.5672221,2.650730499999999,4.2,474.0,"['tourist_attraction', 'museum', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de la Portella, 5, Palma",Atracción
+Ca´n Palou de Coma-sema,39.5684431,2.6500637,3.0,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Anglada, 2, Palma",Atracción
+Can Amorós,39.5686353,2.650865,4.4,17.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer d'En Morei, 1, Palma",Atracción
+Can Crespí (Can Ribera),39.5685046,2.6493739,5.0,1.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Sant Roc, 1, Palma",Atracción
+Ca'n March,39.5688315,2.6513735,4.8,6.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Sant Francesc, 5, Palma",Atracción
+Can Ferragut (Can Caulelles),39.5683329,2.6490891,,,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de l'Estudi General, 9, Palma",Atracción
+Ca´n Ordines d´Almadrà,39.5682038,2.6505226,4.2,5.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer d'En Morei, 8, Palma",Atracción
+Ca´n Llorenç Villalonga,39.5681086,2.6496963,4.7,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de l'Estudi General, 15, Palma",Atracción
+Can Colom,39.56808189999999,2.6499399,4.7,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Anglada, 4, Palma",Atracción
+Can Alemany,39.56839289999999,2.6487328,3.8,4.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de l'Estudi General, 5, Palma",Atracción
+Can Juny,39.56974280000001,2.6520457,4.5,4.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Savellà, 13, Palma",Atracción
+Ca'n Oleza,39.56796999999999,2.6505551,4.5,17.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer d'En Morei, 9, Palma",Atracción
+Can Catlar del Llorer,39.5697141,2.6522587,4.0,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Savellà, 15, Palma",Atracción
+Ca´n Ribas de Pina,39.569726,2.652258,4.7,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Savellà, 15, Palma",Atracción
+Can Coll (Can Moragues des Racó),39.5685251,2.6521348,5.0,4.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Plaça de Sant Francesc, 10, Palma",Atracción
+CaixaForum Palma,39.5716495,2.6500623,4.5,1897.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Plaça de Weyler, 3, Palma",Atracción
+Cal Comte de la Cova,39.56813640000001,2.652033400000001,4.5,4.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer del Sol, 3, Palma",Atracción
+Can Dameto de la Quartera,39.5698713,2.653018700000001,4.8,5.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de la Samaritana, 4, Palma",Atracción
+Can Catlar (Cal Marquès del Palmer),39.5680524,2.652291,4.6,7.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer del Sol, 7, Palma",Atracción
+Basílica de Sant Francesc,39.5688236,2.652909299999999,4.6,979.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",tourist_attraction,"Plaça de Sant Francesc, 7, Palma",Atracción
+Can Dusai,39.56743189999999,2.651588099999999,4.3,9.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de Can Dusai, 3, Palma",Atracción
+Museu de La Seu de Mallorca,39.5674046,2.6483082,4.7,4958.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Plaça de la Seu, s/n, Palma",Atracción
+Cal Marquès del Reguer (Casal Balaguer),39.57161,2.6477427,4.6,12.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer Unió, 3, Palma",Atracción
+Museu Diocesà,39.5669056,2.6490567,4.4,159.0,"['museum', 'tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer del Mirador, 5, Palma",Atracción
+Can Espanya Serra,39.56680839999999,2.650469299999999,4.3,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de la Portella, 18, Palma",Atracción
+Can Fontiroig,39.5667994,2.6505649,4.8,4.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer de la Portella, 7, Palma",Atracción
+Can Lladó,39.56726,2.652521699999999,4.7,3.0,"['tourist_attraction', 'point_of_interest', 'establishment']",tourist_attraction,"Carrer del Vent, 4, Palma",Atracción
+Catedral-Basílica de Santa María de Mallorca,39.56742510000001,2.6482994,4.7,53933.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Plaça de la Seu, s/n, Palma",Atracción
+Franciscanas Hijas de la Misericordia,39.5764225,2.6734716,4.5,6.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Francesc Julià, 54, Palma",Atracción
+Parròquia Santíssima Trinitat,39.5697353,2.6592915,4.5,90.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer General Ricardo Ortega, 16, Palma",Atracción
+Congregación Agustinas Hermanas del Amparo,39.5731997,2.645749899999999,4.8,5.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de la Concepció, 7, Palma",Atracción
+Christian Bible Church International,39.5751318,2.6716809,4.6,10.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Son Gotleu, Carrer Sant Rafael, 70, Palma",Atracción
+Caputxins Catalunya Curia Provincial,39.5746687,2.6538396,5.0,3.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer del Bastió d'En Sanoguera, 3, Palma",Atracción
+Basílica de Sant Francesc,39.5688236,2.652909299999999,4.6,979.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Plaça de Sant Francesc, 7, Palma",Atracción
+Església de Sant Gaietà,39.57099069999999,2.6458814,4.8,25.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Sant Gaietà, 9, Palma",Atracción
+Roman Catholic Diocese of Majorca,39.5669285,2.6538096,4.3,61.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer del Seminari, 4, Palma",Atracción
+Capella Adoració Perpètua Mallorca,39.5661066,2.6531656,4.7,57.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de la Calatrava, 10, Palma",Atracción
+Nostra Senyora del Socors,39.56882649999999,2.6555296,4.7,89.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer del Socors, 24, Palma",Atracción
+Iglesia Ortodoxa de la Natividad del Señor,39.57513259999999,2.6523993,4.5,32.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Plaça de la Porta Pintada, 9, Palma",Atracción
+Hermandad Ntra. Sra. del Rosario - Patrona de Bullas,39.5751062,2.6543548,,,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Plaça d'Espanya, 7, Palma",Atracción
+Església,39.5737646,2.6395525,5.0,1.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de la Indústria, 7, Palma",Atracción
+Salon del Reino de los Testigos Cristianos de Jehová,39.5707298,2.662245299999999,4.5,15.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer del Pare Miquel Mir, 2, Palma",Atracción
+Parròquia de la Concepció i Sant Magí,39.5709159,2.634890399999999,4.6,274.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer d'Espartero, 9, Palma",Atracción
+Parròquia de L'Encarnació,39.5800207,2.6570491,4.4,66.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Joan Munar, 14, Palma",Atracción
+Iglesia Cristiana Evangélica Embajadores de Cristo,39.5761976,2.6642793,4.9,13.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Passatge de Can Feixina, 28, Palma",Atracción
+Parròquia de Sant Josep Obrer,39.5757062,2.6685515,4.1,108.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer Ferrer de Pallarès, 76, Palma",Atracción
+Parròquia Santa Teresa de l'Infant Jesús,39.56927659999999,2.6265647,4.5,121.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Pilar Juncosa, 13, Palma",Atracción
+Iglesia Cristiana Evangélica de La Concordia,39.5860685,2.6611007,5.0,6.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de la Concòrdia, 34, Palma",Atracción
+Parròquia de la Mare de Déu de Montserrat,39.5808695,2.6754682,4.5,82.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer Mare de Déu de Montserrat, 54, Palma",Atracción
+Parròquia de Sant Pius X,39.57399629999999,2.6615808,4.5,40.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer Beatriu de Pinós, 36, Palma",Atracción
+Iglesia Adventista del Séptimo Día en Palma de Mallorca,39.5849795,2.6756194,4.9,41.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de l'Heura, 8, Palma",Atracción
+Església de Sant Nicolau,39.5707226,2.6483481,4.6,404.0,"['tourist_attraction', 'church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer d'Orfila, 2, Palma",Atracción
+Parròquia del Sagrat Cor,39.5798308,2.662536299999999,4.5,92.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Son Ventallol, 15, Palma",Atracción
+Parròquia de Sant Sebastià,39.5769867,2.6412842,4.3,141.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer Rafael Rodríguez Méndez, 9, Palma",Atracción
+Iglesia Evangelica de Palma de Mallorca,39.5738308,2.639044,4.9,84.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer Comte de Barcelona, 20, Palma",Atracción
+Convent Immaculada Concepció FRANCISCANAS TOR,39.57251459999999,2.6489352,4.6,14.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Can Jaquotot, 1, Palma",Atracción
+Parròquia del Beat Ramon Llull,39.5820306,2.6382385,4.3,37.0,"['church', 'place_of_worship', 'point_of_interest', 'establishment']",church,"Carrer de Francesc Martí i Móra, 40, Palma",Atracción
+Xavier Fiol,39.57379529999999,2.6479717,3.9,22.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Sant Jaume, 23A, Palma",Atracción
+Fundación López Fuseya,39.57323,2.651368799999999,4.8,16.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de les Tereses, 4, Palma",Atracción
+Galeria Frank Krüger,39.57001359999999,2.649262799999999,4.4,75.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Costa d'en Brossa, 3, Palma",Atracción
+Galería Pelaires,39.57007,2.648301,4.2,61.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Can Verí, 3, Palma",Atracción
+Galeria K,39.56951369999999,2.6479594,4.7,26.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Tous i Maroto, 4, Palma",Atracción
+Neco Beth pintor,39.5678358,2.6514532,5.0,2.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Santa Clara, 7, A, Palma",Atracción
+6A GALERIA D'ART I TALLER,39.56746119999999,2.6508375,4.6,19.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de la Puresa, 8, i, 3A, Palma",Atracción
+PEP LLABRÉS ART CONTEMPORANI,39.5732237,2.6478285,4.6,10.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Sant Jaume, 17, Palma",Atracción
+Kewenig,39.5707278,2.6447873,5.0,6.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Oratori, Carreró de Sant Feliu, s/n, Palma",Atracción
+MA Arte Contemporáneo,39.56753,2.654729999999999,4.6,17.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer del Temple, 11B, Palma",Atracción
+Lay Low Fine Art Limited Editions,39.5732308,2.6545709,,,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de les Caputxines, 4, Palma",Atracción
+ABA ART,39.5711061,2.642582,4.7,59.0,"['art_gallery', 'tourist_attraction', 'museum', 'point_of_interest', 'establishment']",art_gallery,"Plaça de la Porta de Santa Catalina, 21B, Palma",Atracción
+Galería Arte Jaime III,39.57234,2.642993,4.4,28.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Avinguda de Jaume III, 25, Palma",Atracción
+Portalart antigüedades,39.57274509999999,2.6425734,5.0,6.0,"['art_gallery', 'jewelry_store', 'book_store', 'furniture_store', 'home_goods_store', 'point_of_interest', 'store', 'establishment']",art_gallery,"Passatge Galerias Jaime III, 7, Palma",Atracción
+L21 HOME,39.57757730000001,2.6541013,4.5,20.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de la Reina Maria Cristina, 10, Palma",Atracción
+Wallpapers Deco,39.5762864,2.6574188,4.8,40.0,"['art_gallery', 'home_goods_store', 'general_contractor', 'point_of_interest', 'store', 'establishment']",art_gallery,"Carrer de Miquel Marquès, 15, Palma",Atracción
+NOH-gallery,39.5629615,2.6717137,,,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Medellín, 4, Palma",Atracción
+Marcos y molduras La Casa Enmarcada de Sampol. Tienda de arte,39.58801560000001,2.6525736,4.2,26.0,"['art_gallery', 'point_of_interest', 'store', 'establishment']",art_gallery,"Carrer de Miquel Arcas, 6, Palma",Atracción
+Ponce,39.58083859999999,2.6312831,5.0,1.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Martí Boneo, 21, Palma",Atracción
+iGallery galería de arte contemporáneo,39.5768377,2.6516763,5.0,2.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Cecili Metel, 6, Palma",Atracción
+Rialto Living,39.5700013,2.6456767,4.6,1033.0,"['department_store', 'art_gallery', 'cafe', 'furniture_store', 'restaurant', 'food', 'home_goods_store', 'general_contractor', 'point_of_interest', 'store', 'establishment']",art_gallery,"Carrer de Sant Feliu, 3, Palma",Atracción
+Casal Solleric,39.5709052,2.646555900000001,4.4,458.0,"['art_gallery', 'tourist_attraction', 'point_of_interest', 'establishment']",art_gallery,"Passeig del Born, 27, Palma",Atracción
+GERHARDT BRAUN GALLERY,39.5710261,2.6438939,4.5,22.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Can Sales, 10, Palma",Atracción
+Gabriel Vanrell - Galeria d'Art,39.5691779,2.6477586,4.5,13.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Tous i Maroto, 1, Palma",Atracción
+Galería Altair / Altair Projects,39.5762631,2.641203599999999,4.0,2.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Damas Calvet, 6, b, Palma",Atracción
+"Galería, estudio y escuela de pintura de M. Forteza Villar",39.5746899,2.6500895,5.0,3.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Sant Elies, 7a, bajos, Palma",Atracción
+P Gallery,39.5695918,2.649757699999999,5.0,1.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Plaça de Cort, 3, Palma",Atracción
+Casa del Arte Palma de Mallorca,39.570116,2.6494266,4.8,10.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Costa d'en Brossa, 4c, Palma",Atracción
+Galerie Mensing Palma S.L.U.,39.56999799999999,2.6507456,4.5,48.0,"['art_gallery', 'point_of_interest', 'establishment']",art_gallery,"Carrer de Colom, 8, Palma",Atracción
+THE CAVE MALLORCA,39.57028029999999,2.649077300000001,5.0,7.0,"['art_gallery', 'clothing_store', 'point_of_interest', 'store', 'establishment']",art_gallery,"Pas d'en Quint, 6, Palma",Atracción

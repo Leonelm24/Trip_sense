@@ -1,10 +1,7 @@
 pandas
 numpy
-matplotlib
 seaborn
 requests
-scikit-learn
 faker
 python-dotenv
-openai
 haversine

@@ -7,4 +7,4 @@ HOTEL_COORDS = {
 }
 
 # Tu API Key de Google Places
-GOOGLE_API_KEY = "Añade aqui tu API KEY"  #
+GOOGLE_API_KEY = "AIzaSyDWPErrV479Bg-7vV7q1QA6P22ORi-Xe_w"  #
